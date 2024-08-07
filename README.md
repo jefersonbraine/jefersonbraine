@@ -6,7 +6,7 @@
 - 🎓 Estudando por conta própria e com muita garra.
 - 🌱 Aprendendo mais sobre {JavaScript, HTML, CSS}.
 - 👨🏻‍💻 Criador do [**iniciando.dev**](https://www.instagram.com/iniciando.dev/) no instagram
-- <!--- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.-->
+   <!--- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.-->
 
 ## Minhas Skills
 
