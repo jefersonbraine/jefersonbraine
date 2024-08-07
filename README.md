@@ -53,8 +53,10 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Jeferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-braine-leal-a14108164/)](https://www.linkedin.com/in/jeferson-braine-leal-a14108164/)
-[![Gmail Badge](https://img.shields.io/badge/-Jefersonbraineleall@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonbraineleal@gmail.com)](mailto:jefersonbraineleal@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-braine-leal-a14108164/)](https://www.linkedin.com/in/jeferson-braine-leal-a14108164/)
+[![Gmail Badge](https://img.shields.io/badge/-email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonbraineleal@gmail.com)](mailto:jefersonbraineleal@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iniciando.dev/)
+
 <!--[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 <!--
