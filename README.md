@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jefersonbraine&color=006bed)
+<!--![](https://komarev.com/ghpvc/?username=jefersonbraine&color=006bed)-->
 
 ## Sobre mim
 
@@ -24,7 +24,7 @@
 //![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 //![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)-->
 
-//**Utilidades**
+**Utilidades**
 
 <!--//![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)-->
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
