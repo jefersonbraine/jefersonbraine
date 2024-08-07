@@ -11,20 +11,20 @@ void setup() {
   background(255);
   fill(0);
 
-  strs[0][0] = "Hey there!";
-  strs[0][1] = "My name is Mason Slover.";
+  strs[0][0] = "Ei, tudo bem!";
+  strs[0][1] = "Meu nome é Jeferson Braine.";
 
-  strs[1][0] = "I'm a Mathematics & Computer Science Major";
-  strs[1][1] = "at Fordham University at Lincoln Center in New York City.";
+  strs[1][0] = "Eu sou um especialista em Direito Notarial e Civil virando um programador!😅😅";
+  strs[1][1] = "Sou de perto de Curitiba/PR.";
 
-  strs[2][0] = "I've been teaching myself how to code for 6 years!";
-  strs[2][1] = "I am fluent in Java, C++, Python, Swift, JavaScript, and HTML & CSS.";
+  strs[2][0] = "Estou apredendo a programar por conta a cerca de 4 meses!👨🏻‍💻👨🏻‍💻";
+  strs[2][1] = "Estou aprendendo JavaScript como minha linguagem de programação e também sei usar HTML & CSS.";
 
-  strs[3][0] = "I've created apps, websites, and art using what I've learned.";
-  strs[3][1] = "You can even find the Processing source code for this below!";
+  strs[3][0] = "Estou botando em prática tudo que posso, codando, pesquisando, lendo e anotando bastante coisa";
+  strs[3][1] = "Como pode ver abaixo estou me dedicando todos os dias para ser o melhor a cada dia.";
 
-  strs[5][0] = "Feel free to reach out to say hi!";
-  strs[5][1] = "phone: (512) 739-2405 | email: masonslover@gmail.com";
+  strs[5][0] = "Também sou o criador da do iniciando.dev no instagram! 💪";
+  strs[5][1] = "Aondo posto algumas coisas sobre meus estudos e dicas que me ajudaram";
 }
 
 int i = 0;
