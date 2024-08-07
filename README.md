@@ -4,9 +4,9 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando por conta própria e com muita garra.
-<!--- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.-->
 - 🌱 Aprendendo mais sobre {JavaScript, HTML, CSS}.
-- 👨🏻‍💻 Criador do [**iniciando.dev**] (https://www.instagram.com/iniciando.dev/) no instagram
+- 👨🏻‍💻 Criador do [**iniciando.dev**](https://www.instagram.com/iniciando.dev/) no instagram
+- <!--- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.-->
 
 ## Minhas Skills
 
