@@ -1,4 +1,4 @@
-<img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Aqui está um pouco sobre mim!">
+<img src="https://github.com/jefersonbraine/jefersonbraine/blob/main/output.gif" alt="Aqui está um pouco sobre mim!">
 
 
 <!--
