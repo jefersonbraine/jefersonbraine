@@ -54,11 +54,11 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-braine-leal-a14108164/)](https://www.linkedin.com/in/jeferson-braine-leal-a14108164/)
+-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-braine-leal-a14108164/)](https://www.linkedin.com/in/jeferson-braine-leal-a14108164/)
 [![Gmail Badge](https://img.shields.io/badge/-email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefeleal363@gmail.com)](mailto:jefeleal363@gmail.com)
 
 <!--[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
-
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat
 <!--
 **jefersonbraine/jefersonbraine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
