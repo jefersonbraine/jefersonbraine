@@ -1,5 +1,5 @@
 <!--![](https://komarev.com/ghpvc/?username=jefersonbraine&color=006bed)-->
-
+![Visitor Count](https://profile-counter.glitch.me/jefersonbraine/count.svg)
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
