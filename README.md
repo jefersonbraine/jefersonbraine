@@ -1,5 +1,4 @@
 <!--![](https://komarev.com/ghpvc/?username=jefersonbraine&color=006bed)-->
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjefersonbraine&label=Visitantes&countColor=%23697689&style=flat-square&labelStyle=upper)
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
