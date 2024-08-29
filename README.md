@@ -45,12 +45,13 @@
 <!--![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)-->
 <!--//![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)-->
 
-
+<!--
 <br/>
 
 <a href="https://github.com/jefersonbraine" title="Perfil do Jeferson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonbraine&theme=dracula&show_icons=true" />
 </a>
+-->
 
 ## Onde me encontrar
 
