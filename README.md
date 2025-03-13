@@ -39,7 +39,7 @@
 ![pgAdmin4](https://img.shields.io/badge/-pgAdmin4-333333?style=flat&logo=pgadmin4)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
+![Slack](https://img.shields.io/badge/-Slack-333333?slack&&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
 
 
