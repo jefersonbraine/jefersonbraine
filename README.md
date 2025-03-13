@@ -13,13 +13,13 @@
 **Aplicações e dados**
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
 
 
@@ -40,6 +40,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
+![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
 
 
 
