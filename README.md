@@ -3,7 +3,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando por conta própria e com muita garra.
-- 🌱 Aprendendo mais sobre {JavaScript, HTML, CSS}.
+- 🌱 Aprendendo mais a cada dia.
 - 👨🏻‍💻 Criador do [**iniciando.dev**](https://www.instagram.com/iniciando.dev/) no instagram
 - 🧑🏻‍🏫 Usando minha paixão por ensinar para ajudar a todos.
 - 📚 Estudando {Engenharia de Software}.
