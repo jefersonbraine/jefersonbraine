@@ -1,4 +1,6 @@
 <!--![](https://komarev.com/ghpvc/?username=jefersonbraine&color=006bed)-->
+# Opa, eu sou o Jeferson!👋🏼🧑🏼‍💻
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
