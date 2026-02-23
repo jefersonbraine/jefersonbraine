@@ -7,7 +7,6 @@ Sou um **Especialista em Direito Notarial** com mais de 4 anos de experiência e
 ## Sobre mim
 
 - 🛠️ Atualmente desenvolvendo o **Tabulion** (RPA para cartórios) e o **Inito** (Bot de automação).
-- 🤔 Desenvolvendo soluções de software.
 - 🎓 Estudando **Engenharia de Software** na Uninter.
 - ⚡ Criador da iniciativa [**iniciando.dev**](https://www.instagram.com/iniciando.dev/) para documentar minha jornada e ajudar outros devs.
 - ☁️ Foco atual: **AWS Cloud, Angular e Segurança de Redes (Cisco)**.
