@@ -35,10 +35,9 @@ Sou um **Especialista em Direito Notarial** com mais de 4 anos de experiência e
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonbraine&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonbraine&layout=compact&langs_count=7&theme=dracula" />
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jefersonbraine&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/jefersonbraine)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonbraine&layout=compact&langs_count=7&theme=dracula)](https://github.com/jefersonbraine)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefeleal363@gmail.com)](mailto:jefersonbraineleal@gmail.com)
