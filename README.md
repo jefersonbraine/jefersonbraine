@@ -1,4 +1,3 @@
-<!--![](https://komarev.com/ghpvc/?username=jefersonbraine&color=006bed)-->
 # Opa, eu sou o Jeferson Braine👋🏼🧑🏼‍💻
 
 ### 🚀 De Leis a Algoritmos | Engenheiro de Software
@@ -35,9 +34,7 @@ Sou um **Especialista em Direito Notarial** com mais de 4 anos de experiência e
 
 ### 📊 Estatísticas
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jefersonbraine&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/jefersonbraine)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonbraine&layout=compact&langs_count=7&theme=dracula)](https://github.com/jefersonbraine)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jefersonbraine&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefeleal363@gmail.com)](mailto:jefersonbraineleal@gmail.com)
