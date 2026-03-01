@@ -54,7 +54,7 @@ Especialista em Direito Notarial com mais de 4 anos de experiência na área, em
 
 ---
 
-[Site](https://jefersonbraineleal.dev) · [LinkedIn](https://linkedin.com/in/jefersonbraine) · [GitHub](https://github.com/jefersonbraine) · [E-mail](mailto:jefersonbraineleal@gmail.com)
+[Site](https://jefersonbraineleal.dev) · [LinkedIn](https://www.linkedin.com/in/jefersonbraineleal) · [GitHub](https://github.com/jefersonbraine) · [E-mail](mailto:jefersonbraineleal@gmail.com)
 
 </div>
 
