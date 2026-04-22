@@ -39,7 +39,7 @@ Especialista em Direito Notarial com mais de 4 anos de experiência na área, em
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=angular,ts,python,aws,docker,postgres,git&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=angular,ts,python,cs,dotnet,aws,docker,postgres,sqlite,git,powershell,linux,bash&theme=dark&perline=13"/>
 
 <br/><br/>
 
