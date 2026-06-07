@@ -28,7 +28,7 @@ Especialista em Direito Notarial com mais de 4 anos de experiência na área, em
 | | |
 |---|---|
 | **Tabulion** | RPA para automação de processos em cartórios · `Python · Angular · PostgreSQL` |
-| **Inito** | Bot de automação para fluxos de trabalho · `Python · Angular · Docker · aioSQL` |
+| **WingetEasy** | Gerenciador automático de atualizações via Winget para Windows · `Winget · c# · WinUi3 · SQLite` |
 | **iniciando.dev** | Documentando minha transição pra ajudar quem está começando · [↗ Instagram](https://www.instagram.com/iniciando.dev/) |
 
 <br/>
